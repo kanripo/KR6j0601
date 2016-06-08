@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:02.617630
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:36
 #+TITLE: 佛說持明藏八大總持王經
 #+PROPERTY: CBETA_ID T21n1370
 #+PROPERTY: ID KR6j0601
